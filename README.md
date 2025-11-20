@@ -1,11 +1,14 @@
 # auto-zapret
-Авто-обновлятор/инсталлер zapret-discord-youtube
+Auto-updater/installer for [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
-## Установка
+## Installation
 
-1. Нажмите `Win`+`R`
-2. Вставьте вот это:
+1. **Open PowerShell**
+   
+   Click the Start Menu, type PowerShell, then open it.
+
+2. **Copy and paste the code below, then press enter.**
    ```bash
-   powershell.exe -Command "irm https://raw.githubusercontent.com/jellybebra/auto-zapret/refs/heads/main/auto_zapret.ps1 | iex"
+   irm https://raw.githubusercontent.com/jellybebra/auto-zapret/refs/heads/main/auto_zapret.ps1 | iex
    ```
-3. Нажмите `Enter`
+3. **Done!**
